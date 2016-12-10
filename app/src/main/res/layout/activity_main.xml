@@ -35,21 +35,25 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            tools:text="7" />
+            tools:text="7"
+            android:textSize="30sp" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            tools:text="8" />
+            tools:text="8"
+            android:textSize="30sp" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:textSize="20sp"
             tools:text="9" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:textSize="20sp"
             tools:text="/" />
     </LinearLayout>
     <LinearLayout
@@ -59,21 +63,25 @@
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:textSize="20sp"
             android:layout_weight="1"
             tools:text="4" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:textSize="20sp"
             tools:text="5" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:textSize="20sp"
             android:layout_weight="1"
             tools:text="6" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:textSize="20sp"
             android:layout_weight="1"
             tools:text="x" />
     </LinearLayout>
@@ -84,21 +92,25 @@
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:textSize="20sp"
             android:layout_weight="1"
             tools:text="1" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:textSize="20sp"
             android:layout_weight="1"
             tools:text="2" />
         <Button
             android:layout_width="0dp"
+            android:textSize="20sp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             tools:text="3" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:textSize="20sp"
             android:layout_weight="1"
             tools:text="-" />
     </LinearLayout>
@@ -110,19 +122,23 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            tools:text="." />
+            tools:text="."
+            android:textSize="30sp" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            tools:text="0" />
+            tools:text="0"
+            android:textSize="30sp" />
         <Button
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
+            android:textSize="20sp"
             tools:text="=" />
         <Button
             android:layout_width="0dp"
+            android:textSize="20sp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             tools:text="+" />
